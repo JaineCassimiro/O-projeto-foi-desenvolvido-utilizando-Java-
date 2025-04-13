@@ -13,6 +13,7 @@ O sistema permite converter moedas em tempo real utilizando dados de uma API ext
 - OkHttp
 - Jackson
 - JUnit
+![9d4c9ba6-5b7c-4339-8055-c30d0e57eb99](https://github.com/user-attachments/assets/7755610c-ca6d-4401-95a9-5eff1a923b88)
 
 ## Como Executar
 1. Clone o repositório.
